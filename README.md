@@ -23,7 +23,7 @@
 #### TODO
 
 \
-by Vasily, Viktor, Dmitrii, Georgy
+by Vasily
 ```
     ___       ___       ___       ___   
    /\__\     /\  \     /\  \     /\__\  
