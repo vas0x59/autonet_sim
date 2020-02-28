@@ -9,9 +9,9 @@
     <!-- pose and inertial -->
     <pose>-0.1 0 0.05 0 0 0</pose>
     <inertial>
-      <mass value="5"/>
+      <mass value="0.5"/>
       <origin rpy="0 0 0" xyz="-0.1 0 0.05"/>
-      <inertia ixx="0.106208333333" ixy="0" ixz="0" iyy="0.106208333333" iyz="0" izz="0.106208333333"/>
+      <inertia ixx="0.206208333333" ixy="0" ixz="0" iyy="0.206208333333" iyz="0" izz="0.206208333333"/>
     </inertial>
     <!-- body -->
     <collision name="collision_chassis">
