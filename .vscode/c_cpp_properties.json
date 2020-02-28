@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/vasily/rosserial_ws/devel/include/**",
+                "/home/vasily/ros_3_catkin_ws/install_isolated/include/**",
+                "/home/vasily/Projects/autonet_ws/devel/include/**",
+                "/home/vasily/catkin_ws/devel/include/**",
+                "/home/vasily/catkin_ws/src/image_common/camera_calibration_parsers/include/**",
+                "/home/vasily/catkin_ws/src/image_common/camera_info_manager/include/**",
+                "/home/vasily/catkin_ws/src/vision_opencv/image_geometry/include/**",
+                "/home/vasily/catkin_ws/src/image_common/polled_camera/include/**",
+                "/home/vasily/rosserial_ws/src/rosserial/rosserial_server/include/**",
+                "/home/vasily/rosserial_ws/src/rosserial/rosserial_test/include/**",
+                "/home/vasily/catkin_ws/src/geometry2/tf2_geometry_msgs/include/**",
+                "/home/vasily/catkin_ws/src/usb_cam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

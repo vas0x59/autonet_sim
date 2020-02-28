@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/vasily/ros_3_catkin_ws/devel_isolated/xacro/lib/python3/dist-packages",
+        "/home/vasily/ros_3_catkin_ws/install_isolated/lib/python3/dist-packages",
+        "/home/vasily/Projects/autonet_ws/devel/lib/python3/dist-packages",
+        "/home/vasily/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/vasily/catkin_ws/install/lib/python3/dist-packages",
+        "/home/vasily/catkin_ws/src/rosserial/rosserial_arduino/src",
+        "/home/vasily/Projects/autonet_ws/src"
+    ]
+}
