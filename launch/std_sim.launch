@@ -1,5 +1,5 @@
 <launch>
-    <arg name="gui" default="true"/>
+    <!-- <arg name="gui" default="true"/> -->
     <include file="$(find autonet_sim)/launch/world1.launch" />
     <include file="$(find autonet_sim)/launch/spawn.launch" />
     
